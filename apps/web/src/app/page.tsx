@@ -37,15 +37,15 @@ import {
 import { ResultExample } from "@/components/result-example";
 
 export const metadata: Metadata = {
-  title: "Bürgergeldrechner des Jobcenter Leipzig",
+  title: "Bürgergeldrechner des Jobcenter Chemnitz",
   description:
-    "Berechnen Sie Ihr Bürgergeld einfach und unkompliziert mit dem Bürgergeldrechner des Jobcenters Leipzig. Erfahren Sie, welche Leistungen Ihnen zustehen und erhalten Sie individuelle Unterstützung bei Ihrer Antragstellung. Nutzen Sie unseren kostenlosen Online-Rechner für eine schnelle und präzise Berechnung.",
+    "Berechnen Sie Ihr Bürgergeld einfach und unkompliziert mit dem Bürgergeldrechner des Jobcenters Chemnitz. Erfahren Sie, welche Leistungen Ihnen zustehen und erhalten Sie individuelle Unterstützung bei Ihrer Antragstellung. Nutzen Sie unseren kostenlosen Online-Rechner für eine schnelle und präzise Berechnung.",
   openGraph: {
-    title: "Bürgergeldrechner des Jobcenter Leipzig",
+    title: "Bürgergeldrechner des Jobcenter Chemnitz",
     description:
-      "Berechnen Sie Ihr Bürgergeld einfach und unkompliziert mit dem Bürgergeldrechner des Jobcenters Leipzig. Erfahren Sie, welche Leistungen Ihnen zustehen und erhalten Sie individuelle Unterstützung bei Ihrer Antragstellung. Nutzen Sie unseren kostenlosen Online-Rechner für eine schnelle und präzise Berechnung.",
+      "Berechnen Sie Ihr Bürgergeld einfach und unkompliziert mit dem Bürgergeldrechner des Jobcenters Chemnitz. Erfahren Sie, welche Leistungen Ihnen zustehen und erhalten Sie individuelle Unterstützung bei Ihrer Antragstellung. Nutzen Sie unseren kostenlosen Online-Rechner für eine schnelle und präzise Berechnung.",
     url: "https://buergergeld.io",
-    siteName: "Bürgergeldrechner des Jobcenter Leipzig",
+    siteName: "Bürgergeldrechner des Jobcenter Chemnitz",
     images: [
       {
         url: "https://www.buergergeld.dev/og.png", // Must be an absolute URL
@@ -97,7 +97,7 @@ export default function HomePage() {
         >
           {/* <div className="flex lg:flex-1">
             <Link className="-m-1.5 p-1.5" href="/">
-              Bürgergeldrechner des Jobcenter Leipzig
+              Bürgergeldrechner des Jobcenter Chemnitz
             </Link>
           </div> */}
           <div className="flex lg:hidden">
@@ -114,11 +114,11 @@ export default function HomePage() {
               <DrawerContent className="text-zinc-900">
                 <DrawerHeader>
                   <DrawerTitle>
-                    Bürgergeldrechner des Jobcenter Leipzig
+                    Bürgergeldrechner des Jobcenter Chemnitz
                   </DrawerTitle>
                   <DrawerDescription>
                     Schnell und einfach den Anspruch auf Bürgergeld mit dem
-                    Bürgergeldrechner des Jobcenters Leipzig prüfen.
+                    Bürgergeldrechner des Jobcenters Chemnitz prüfen.
                   </DrawerDescription>
                 </DrawerHeader>
                 {/* <div className="p-2 flex flex-col"> */}
@@ -248,7 +248,7 @@ export default function HomePage() {
                   Bürgergeld berechnen
                 </p>
                 <p className="mt-6 text-lg leading-8 text-zinc-700">
-                  Der Bürgergeldrechner des Jobcenters Leipzig bietet eine
+                  Der Bürgergeldrechner des Jobcenters Chemnitz bietet eine
                   einfache und sichere Möglichkeit, den eigenen Bürgergeldbedarf
                   zu prüfen – ganz ohne Anmeldung.
                 </p>
