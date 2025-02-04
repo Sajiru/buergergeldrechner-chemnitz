@@ -427,14 +427,18 @@ export default function HomePage() {
             aria-label="Footer"
           >
             <div>
-              <a href="https://jobcenter-leipzig.de/ueber-uns/impressum/">
+              /*
+              <a href="https://jobcenter-chemnitz.de/impressum/">
                 Impressum
               </a>
+              */
             </div>
             <div>
-              <a href="https://jobcenter-leipzig.de/ueber-uns/datenschutzerklaerung/">
+              /*
+              <a href="https://jobcenter-chemnitz.de/datenschutzerklaerung/">
                 Datenschutz
               </a>
+              */
             </div>
           </nav>
         </div>
