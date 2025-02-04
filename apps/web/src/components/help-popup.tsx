@@ -20,6 +20,7 @@ export function HelpPopup() {
         </Button>
       </SheetTrigger>
       <SheetContent className="w-[400px] sm:w-[540px] flex flex-col">
+        {/*
         <SheetHeader>
           <div className="text-center">
             <h2 className="text-muted-foreground text-sm mt-6">
@@ -33,6 +34,7 @@ export function HelpPopup() {
             />
           </div>
         </SheetHeader>
+        */}
         <div className="flex-grow"></div>
         <div>
           <div className="flex justify-center gap-2">
