@@ -105,7 +105,7 @@ export default function StepEmployable() {
             Sind Sie nicht erwerbsfähig, so stehen Ihnen unter Umständen andere
             Sozialleistungen zu. Hier finden Sie eine Übersicht über möglich
             Alternativen.{" "}
-            <a href="https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienstleistung/sozialhilfe-beantragen-5b5842148421a/">
+            <a href="https://www.chemnitz.de/de/leben-in-chemnitz/soziale-leistungen-und-hilfen/sozialhilfe">
               → Sozialhilfe
             </a>
           </AlertDescription>
