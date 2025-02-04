@@ -422,25 +422,23 @@ export default function HomePage() {
       <footer>
         <hr />
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
+          {/*
           <nav
             className="flex justify-center gap-12 text-zinc-700 text-sm"
             aria-label="Footer"
           >
-            <div>
-              /*
+          <div>
               <a href="https://jobcenter-chemnitz.de/impressum/">
                 Impressum
               </a>
-              */
             </div>
             <div>
-              /*
               <a href="https://jobcenter-chemnitz.de/datenschutzerklaerung/">
                 Datenschutz
               </a>
-              */
             </div>
           </nav>
+          */}
         </div>
       </footer>
     </>
